@@ -6,70 +6,127 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 
 /* EROI */
-TileSets/AbsoluteUnits/Units/Paolo Magno /* Immagine DA FARE*/
-TileSets/AbsoluteUnits/Units/Nora Madre dei Draghi /* Immagine DA FARE*/
+TileSets/AbsoluteUnits/Units/Paolo Magno /* Immagine Legion-Rome*/
+  rotate: false
+  xy: 725, 1503
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 
 /* All Eras */
 
 /* Ancient Era */
 TileSets/AbsoluteUnits/Units/Dacio /* Immagine Skirmisher */
   rotate: false
-  xy: 652, 59
+  xy: 313, 674
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Germano /* Immagine Marauder*/
   rotate: false
-  xy: 252, 259
+  xy: 519, 1236
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Guerriero sardo /* Immagine DA FARE*/
+TileSets/AbsoluteUnits/Units/Guerriero sardo /* Immagine Marauder*/
+  rotate: false
+  xy: 519, 1236
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Guerriero Taurino /* Immagine Pictish Warrior*/
   rotate: false
-  xy: 652, 259
+  xy: 107, 585
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Lanciere Nubiano /* Immagine DA FARE*/
+TileSets/AbsoluteUnits/Units/Guerriero Taurino-1
   rotate: false
-  xy: 652, 259
+  xy: 210, 674
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Guerriero Taurino-2
+  rotate: false
+  xy: 313, 763
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lanciere Nubiano /* Immagine Persian Immortal*/
+  rotate: false
+  xy: 1240, 1681
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oplite siracusano /* Immagine Hoplite*/
   rotate: false
-  xy: 452, 459
+  xy: 313, 1325
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Oplite siracusano-1
+  rotate: false
+  xy: 416, 1414
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Oplite siracusano-2
+  rotate: false
+  xy: 519, 1503
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tracio /* Immagine Brute */
   rotate: false
-  xy: 52, 659
+  xy: 4, 1503
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Trireme sarda /* Immagine DA FARE*/
-
+TileSets/AbsoluteUnits/Units/Trireme sarda /* Immagine Galley*/
+rotate: false
+  xy: 1966, 1658
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Unno /* Immagine Horse Archer */
   rotate: false
-  xy: 261, 665
+  xy: 1822, 1701
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Unno-1
+  rotate: false
+  xy: 1930, 1722
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Unno-2
+  rotate: false
+  xy: 1120, 1171
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 
+/* Classical Era */
 
-
-	/* Classical Era */
 TileSets/AbsoluteUnits/Units/Ballista nikelinese /* Immagine Ballista */
- rotate: false
+  rotate: false
   xy: 1868, 1964
   size: 77, 65
   orig: 77, 65
@@ -90,15 +147,43 @@ TileSets/AbsoluteUnits/Units/Ballista nikelinese-2
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Elefante africano /* Immagine African Forest Elephant*/
+ rotate: false
+  xy: 210, 409
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Elefante africano-1
   rotate: false
-  xy: 61, 260
+  xy: 313, 498
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Elefante africano-2
+  rotate: false
+  xy: 1760, 1861
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legionario di Paolo /* Immagine Legion */
+ rotate: false
+  xy: 416, 1236
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Legionario di Paolo-1
   rotate: false
-  xy: 52, 459
+  xy: 519, 1325
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Legionario di Paolo-2
+  rotate: false
+  xy: 622, 1414
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
