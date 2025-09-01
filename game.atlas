@@ -4,6 +4,70 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+
+/* EROI */
+TileSets/AbsoluteUnits/Units/Paolo Magno /* Immagine DA FARE*/
+TileSets/AbsoluteUnits/Units/Nora Madre dei Draghi /* Immagine DA FARE*/
+
+/* All Eras */
+
+/* Ancient Era */
+TileSets/AbsoluteUnits/Units/Dacio /* Immagine Skirmisher */
+  rotate: false
+  xy: 652, 59
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Germano /* Immagine Marauder*/
+  rotate: false
+  xy: 252, 259
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Guerriero sardo /* Immagine DA FARE*/
+TileSets/AbsoluteUnits/Units/Guerriero Taurino /* Immagine Pictish Warrior*/
+  rotate: false
+  xy: 652, 259
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lanciere Nubiano /* Immagine DA FARE*/
+  rotate: false
+  xy: 652, 259
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Oplite siracusano /* Immagine Hoplite*/
+  rotate: false
+  xy: 452, 459
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tracio /* Immagine Brute */
+  rotate: false
+  xy: 52, 659
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trireme sarda /* Immagine DA FARE*/
+
+TileSets/AbsoluteUnits/Units/Unno /* Immagine Horse Archer */
+  rotate: false
+  xy: 261, 665
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+
+
+
+	/* Classical Era */
 TileSets/AbsoluteUnits/Units/Ballista nikelinese /* Immagine Ballista */
  rotate: false
   xy: 1868, 1964
@@ -25,39 +89,11 @@ TileSets/AbsoluteUnits/Units/Ballista nikelinese-2
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Dacio /* Immagine Skirmisher */
-  rotate: false
-  xy: 652, 59
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
 TileSets/AbsoluteUnits/Units/Elefante africano /* Immagine African Forest Elephant*/
   rotate: false
   xy: 61, 260
   size: 77, 79
   orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Germano /* Immagine Marauder*/
-  rotate: false
-  xy: 252, 259
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Guerriero Taurino /* Immagine Pictish Warrior*/
-  rotate: false
-  xy: 652, 259
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Lanciere Nubiano /* Immagine DA FARE*/
-  rotate: false
-  xy: 652, 259
-  size: 95, 81
-  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legionario di Paolo /* Immagine Legion */
@@ -67,33 +103,3 @@ TileSets/AbsoluteUnits/Units/Legionario di Paolo /* Immagine Legion */
   orig: 95, 81
   offset: 0, 0
   index: -1
-NationIcons/Nikelino
-  rotate: false
-  xy: 250, 450
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Oplite siracusano /* Immagine Hoplite*/
-  rotate: false
-  xy: 452, 459
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Tracio /* Immagine Brute */
-  rotate: false
-  xy: 52, 659
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Unno /* Immagine Horse Archer */
-  rotate: false
-  xy: 261, 665
-  size: 77, 70
-  orig: 77, 70
-  offset: 0, 0
-  index: -1
-
-
