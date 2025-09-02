@@ -179,6 +179,7 @@ TileSets/AbsoluteUnits/Units/Legionario di Paolo-2
   orig: 95, 81
   offset: 0, 0
   index: -1
+
 game69.png
 size: 2048, 2048
 format: RGBA8888
@@ -200,7 +201,7 @@ TileSets/AbsoluteUnits/Units/Amazzone a cavallo
   index: -1
 TileSets/AbsoluteUnits/Units/Sacerdotessa Lupa
   rotate: false
-  xy: 732, 1252
+  xy: 1252, 1564
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
