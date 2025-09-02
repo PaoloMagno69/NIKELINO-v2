@@ -32,10 +32,3 @@ TileSets/AbsoluteUnits/Units/Guerriera amazzone
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nympho Worker
-  rotate: false
-  xy: 1252, 1564
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
