@@ -4,41 +4,35 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
-/* EROI */
-TileSets/AbsoluteUnits/Units/Paolo Magno /* Immagine Legion-Rome*/
+TileSets/AbsoluteUnits/Units/Paolo Magno
   rotate: false
   xy: 725, 1503
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-
-/* All Eras */
-
-/* Ancient Era */
-TileSets/AbsoluteUnits/Units/Dacio /* Immagine Skirmisher */
+TileSets/AbsoluteUnits/Units/Dacio
   rotate: false
   xy: 313, 674
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Germano /* Immagine Marauder*/
+TileSets/AbsoluteUnits/Units/Germano
   rotate: false
   xy: 519, 1236
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Guerriero sardo /* Immagine Marauder*/
+TileSets/AbsoluteUnits/Units/Guerriero sardo
   rotate: false
   xy: 519, 1236
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Guerriero Taurino /* Immagine Pictish Warrior*/
+TileSets/AbsoluteUnits/Units/Guerriero Taurino
   rotate: false
   xy: 107, 585
   size: 95, 81
@@ -59,14 +53,14 @@ TileSets/AbsoluteUnits/Units/Guerriero Taurino-2
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Lanciere Nubiano /* Immagine Persian Immortal*/
+TileSets/AbsoluteUnits/Units/Lanciere Nubiano
   rotate: false
   xy: 1240, 1681
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Oplite siracusano /* Immagine Hoplite*/
+TileSets/AbsoluteUnits/Units/Oplite siracusano
   rotate: false
   xy: 313, 1325
   size: 95, 81
@@ -87,21 +81,21 @@ TileSets/AbsoluteUnits/Units/Oplite siracusano-2
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Tracio /* Immagine Brute */
+TileSets/AbsoluteUnits/Units/Tracio
   rotate: false
   xy: 4, 1503
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Trireme sarda /* Immagine Galley*/
+TileSets/AbsoluteUnits/Units/Trireme sarda
 rotate: false
   xy: 1966, 1658
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Unno /* Immagine Horse Archer */
+TileSets/AbsoluteUnits/Units/Unno
   rotate: false
   xy: 1822, 1701
   size: 77, 70
@@ -122,10 +116,7 @@ TileSets/AbsoluteUnits/Units/Unno-2
   orig: 77, 70
   offset: 0, 0
   index: -1
-
-/* Classical Era */
-
-TileSets/AbsoluteUnits/Units/Ballista nikelinese /* Immagine Ballista */
+TileSets/AbsoluteUnits/Units/Ballista nikelinese
   rotate: false
   xy: 1868, 1964
   size: 77, 65
@@ -146,7 +137,7 @@ TileSets/AbsoluteUnits/Units/Ballista nikelinese-2
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Elefante africano /* Immagine African Forest Elephant*/
+TileSets/AbsoluteUnits/Units/Elefante africano
  rotate: false
   xy: 210, 409
   size: 77, 79
@@ -167,8 +158,8 @@ TileSets/AbsoluteUnits/Units/Elefante africano-2
   orig: 77, 79
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Legionario di Paolo /* Immagine Legion */
- rotate: false
+TileSets/AbsoluteUnits/Units/Legionario di Paolo
+  rotate: false
   xy: 416, 1236
   size: 95, 81
   orig: 95, 81
