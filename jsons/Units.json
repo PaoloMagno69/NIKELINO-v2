@@ -35,7 +35,7 @@
     "name": "Sacerdotessa Lupa",
     "unitType": "Civilian",
     "uniqueTo": "Nikelino",
-    "cost": 300,
+    "cost": 60,
     "movement": 2,
     "strength": 0,
     "requiredTech": "Pottery",
@@ -65,7 +65,7 @@
 		"uniqueTo": "Nikelino",
 		"movement": 2,
 		"strength": 12,
-		"cost": 30,
+		"cost": 60,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
