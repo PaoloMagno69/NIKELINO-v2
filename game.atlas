@@ -213,3 +213,10 @@ TileSets/AbsoluteUnits/Units/Guerriera amazzone
   orig: 200, 200
   offset: 0, 0
   index: -1
+ReligionIcons/ORGASMO DI ELE
+  rotate: false
+  xy: 880, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
